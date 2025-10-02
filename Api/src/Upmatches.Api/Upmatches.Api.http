@@ -1,0 +1,6 @@
+@Upmatches.Api_HostAddress = http://localhost:5071
+
+GET {{Upmatches.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

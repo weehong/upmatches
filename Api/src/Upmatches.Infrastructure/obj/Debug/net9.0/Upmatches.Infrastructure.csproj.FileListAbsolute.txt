@@ -1,0 +1,16 @@
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/bin/Debug/net9.0/Upmatches.Infrastructure.deps.json
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/bin/Debug/net9.0/Upmatches.Infrastructure.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/bin/Debug/net9.0/Upmatches.Infrastructure.pdb
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/bin/Debug/net9.0/Upmatches.Core.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/bin/Debug/net9.0/Upmatches.Core.pdb
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.csproj.AssemblyReference.cache
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.AssemblyInfoInputs.cache
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.AssemblyInfo.cs
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.csproj.CoreCompileInputs.cache
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.sourcelink.json
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatche.F26805FE.Up2Date
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/refint/Upmatches.Infrastructure.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/Upmatches.Infrastructure.pdb
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/Debug/net9.0/ref/Upmatches.Infrastructure.dll

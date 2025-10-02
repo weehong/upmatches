@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Upmatches.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Upmatches.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Upmatches.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upmatches.Core/1.0.0": {
+      "type": "project",
+      "path": "../Upmatches.Core/Upmatches.Core.csproj",
+      "msbuildProject": "../Upmatches.Core/Upmatches.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Upmatches.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/vernon/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/Upmatches.Infrastructure.csproj",
+      "projectName": "Upmatches.Infrastructure",
+      "projectPath": "/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/Upmatches.Infrastructure.csproj",
+      "packagesPath": "/home/vernon/.nuget/packages/",
+      "outputPath": "/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/vernon/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Core/Upmatches.Core.csproj": {
+              "projectPath": "/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Core/Upmatches.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/vernon/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

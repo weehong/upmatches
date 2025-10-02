@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3BR8DPxqto=",
+  "success": true,
+  "projectFilePath": "/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Api/Upmatches.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/vernon/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/home/vernon/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/bin/Debug/net9.0/Upmatches.Application.deps.json
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/bin/Debug/net9.0/Upmatches.Application.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/bin/Debug/net9.0/Upmatches.Application.pdb
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/bin/Debug/net9.0/Upmatches.Core.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/bin/Debug/net9.0/Upmatches.Core.pdb
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.csproj.AssemblyReference.cache
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.AssemblyInfoInputs.cache
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.AssemblyInfo.cs
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.csproj.CoreCompileInputs.cache
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.sourcelink.json
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatche.2BAF9655.Up2Date
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/refint/Upmatches.Application.dll
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/Upmatches.Application.pdb
+/home/vernon/workspace/dotnet/Upmatches/Api/src/Upmatches.Application/obj/Debug/net9.0/ref/Upmatches.Application.dll
